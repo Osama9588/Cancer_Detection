@@ -3,5 +3,4 @@ tensorflow
 pillow 
 opencv-python 
 keras 
-libgl1-mesa-glx
-libglib2.0-0
+
